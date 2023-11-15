@@ -16,6 +16,7 @@ This project aims to analyze and visualize the global impact of COVID-19 by mapp
 
 - **Iteration 3 - Analysis and Insights Integration:**
   - Statistical analysis to identify correlations between vaccination rates and death/infection rates.
+  - Time series forcasting for important metrics such as a vaccination rates, deaths/infection rates, moratlity rates and more. 
   - Integration of Natural Language Processing (NLP) or statistical techniques to generate automated insights and conclusions regarding the relationships observed in the data.
   - Incorporation of these conclusions into the Tableau dashboard for periodic analysis (weekly, monthly, quarterly).
 
