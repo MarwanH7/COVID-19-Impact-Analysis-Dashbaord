@@ -1,5 +1,5 @@
 
-# COVID-19 Impact Analysis Dashboard
+# [COVID-19 Impact Analysis Dashboard (Tableau)](https://public.tableau.com/app/profile/marwan.elhelaly/viz/Covid_Global_Impact_Dashboard/Vaccination_Rates)
 
 ## Overview
 <div align="justify">
