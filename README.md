@@ -10,7 +10,7 @@ This project aims to analyze and visualize the global impact of COVID-19 by mapp
   - Manual extraction, transformation, and loading (ETL) of COVID-19 data into a PostgreSQL database.
   - Creation of a Tableau dashboard displaying key metrics across continents and countries.
 
-- **Iteration 2 - Automation Enhancement:**
+- [**Iteration 2 - Automation Enhancement:**] (https://github.com/MarwanH7/Automated-COVID-19-Impact-Analysis-Dashbaord-Looker_Studio-)
   - Implementation of automated data pipelines for periodic updates from the data source to the PostgreSQL database.
   - Automation of the dashboard refresh process based on updated data.
 
